@@ -1,0 +1,8 @@
+score_type lowscore
+
+game 2011-12-24 22:00
+Jessica     95
+Hugo        77
+Jonatan     89
+Jakob       103
+
