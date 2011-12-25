@@ -23,7 +23,7 @@ Peter		20
 Axel		9
 Hanna		0
 
-game 2010-07-08 22:00
+game 2010-07-08 22:00
 Jessica 	8
 Peter		8
 Axel		20
