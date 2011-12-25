@@ -23,7 +23,7 @@ Peter		20
 Axel		9
 Hanna		0
 
-game 2010-07-08 22:00
+game 2010-07-08 22:00
 Jessica 	8
 Peter		8
 Axel		20
@@ -82,3 +82,6 @@ Peter		6
 Jessica		6
 Hanna		0
 
+game 2014-12-25 22:30
+Gnu      1000
+Apa      900
