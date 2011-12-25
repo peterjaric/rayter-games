@@ -1,0 +1,7 @@
+score_type lowscore
+
+game 2011-12-25 23:25
+Viveka      10
+Peter       1
+Jonatan     3
+Jakob       6
