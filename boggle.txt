@@ -82,6 +82,3 @@ Peter		6
 Jessica		6
 Hanna		0
 
-game 2014-12-25 22:30
-Gnu      1000
-Apa      900
