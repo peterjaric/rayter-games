@@ -1,4 +1,75 @@
 score_type lowscore
+game_name Hjärter
+
+game 2010-08-02 22:00
+Viveka  	82
+Peter		80
+Margareta	121
+Hugo		35
+Harald		56
+Jakob		68
+
+game 2010-08-03 15:00
+Peter		52
+Hugo		0
+Jakob		52
+
+game 2010-08-03 15:30
+Peter		35
+Hugo		5
+Jakob		65
+
+game 2010-08-03 16:00
+Peter		33
+Hugo		59
+Jakob		12
+
+game 2010-08-03 16:00
+Peter		22
+Hugo		102
+Jakob		84
+
+game 2010-08-03 23:00
+Viveka		19
+Peter		109
+Margareta	70
+Hugo		2
+Harald		58
+Jakob		41
+Jessica		96
+
+game 2010-08-04 15:00
+Peter		52
+Margareta	27
+Hugo		75
+Harald		52
+Jessica		54
+
+game 2010-08-06 22:00
+Peter		51
+Harald		46
+Viveka		36
+Jonatan		75
+
+game 2010-08-08 22:00
+Peter		73
+Harald		52
+Jonatan		95
+Hugo		103
+Jessica		96
+
+game 2010-08-10 22:00
+Peter		52
+Viveka		11
+Axel		103
+Hanna		42
+
+game 2010-08-11 22:00
+Peter		52
+Viveka		34
+Axel		45
+Hanna		25
+
 
 game 2011-12-24 22:00
 Jessica     95
