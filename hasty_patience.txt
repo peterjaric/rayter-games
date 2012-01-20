@@ -1,0 +1,8 @@
+game_name Hasty Patience
+
+game 2010-12-13 21:00
+Jonatan		40
+Peter		76
+Jakob		-14
+Viveka		17
+

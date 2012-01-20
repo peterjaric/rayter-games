@@ -1,0 +1,9 @@
+game_name Gin Rummy
+
+game 2010-08-06 23:30
+Jonatan		50
+Peter		20
+
+game 2010-08-08 23:30
+Jonatan		129
+Peter		0

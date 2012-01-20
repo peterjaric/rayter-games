@@ -1,0 +1,19 @@
+game_name Snake Duel
+
+game 2010-08-08 00:15
+Jonatan		16
+Peter		13
+Hugo		10
+
+game 2010-08-08 00:25
+Jonatan		9
+Hugo		10
+
+game 2010-08-08 13:20
+Jonatan		9
+Peter		2
+Hugo		16
+
+game 2010-08-08 13:40
+Jonatan		10
+Hugo		9
