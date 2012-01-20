@@ -1,3 +1,5 @@
+game_name Boggle
+
 game 2010-07-06 21:00
 Jessica 	21
 Jonatan		33
