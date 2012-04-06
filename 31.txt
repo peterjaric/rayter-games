@@ -7,3 +7,8 @@ game 2011-12-26 00:30
 Jakob       5
 Jonatan     4
 Peter       4
+
+game 2012-04-06 22:10
+Jonatan     1
+Peter       0
+Jakob       0
