@@ -2,6 +2,7 @@ game 2012-02-06 23:00
 Jonatan     111
 Peter       91
 
+# vi glömde att räkna alla poäng...
 #game 2012-03-27 22:15
 #Hugo 		110
 #Peter		92
