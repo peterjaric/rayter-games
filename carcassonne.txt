@@ -34,8 +34,16 @@ Peter           70
 Hanna           72
 Rakel           73
 
-game 2012-04-07 24:00
+game 2012-04-07 23:59
 Jonatan         103
 Hugo            94
 Peter           118
 Rakel           47
+
+
+game 2012-04-08 22:00
+Jonatan         112
+Peter           128
+Rakel           106
+
+
