@@ -47,11 +47,10 @@ Rakel       70
 Jonatan     42
 Peter       47
 
-
 game 2012-04-08 22:41
-Jonatan 84
-Rakel 37
-Jakob 102
-Peter 68
+Jonatan     84
+Rakel       37
+Jakob       102
+Peter       68
 
 
