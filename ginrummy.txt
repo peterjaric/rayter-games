@@ -8,6 +8,6 @@ game 2010-08-08 23:30
 Jonatan		129
 Peter		0
 
-game 2021-03-16 23.00
+game 2021-03-16 23:00
 Peter     38
 Jakob     57
