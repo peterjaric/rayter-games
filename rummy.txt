@@ -1,0 +1,16 @@
+score_type lowscore
+game_name Rummy
+
+game 2012-07-25 21:40
+David    	226
+Rakel		171
+Jonatan 	96
+Antonia		231
+Philippa	110
+
+game 2012-07-25 22:20
+David    	166
+Rakel		0
+Jonatan 	320
+Antonia		279
+Philippa	97
