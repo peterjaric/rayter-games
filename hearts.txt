@@ -151,6 +151,32 @@ Hugo        92
 Jakob       14
 Jessica     72
 
+game 2012-06-29 21:00
+Harald      4
+Hugo        27
+Jessica     6
+Jakob       15
+Jonatan     0
+Lisa        0
+
+game 2012-06-30 22:00
+Harald      109
+Peter       27
+Hugo        18
+Jakob       49
+Viveka      28
+Jonatan     34
+Lisa        47
+
+game 2012-06-30 22:00
+Harald      73
+Peter       88
+Hugo        69
+Jessica     94
+Viveka      107
+Jonatan     59
+Lisa        34
+
 game 2012-07-15 22:20
 Harald      6
 Peter       2
