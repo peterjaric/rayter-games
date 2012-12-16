@@ -1,12 +1,12 @@
 game_name Dominion
 
-game 2012-12-16 20:00
+game 2012-12-16 21:45
 Emil 		40
 Trond		12
 Moa		19
 Jonatan		30
 
-game 2012-12-16 20:00
+game 2012-12-16 22:20
 Emil 		39
 Trond		33
 Moa		35
