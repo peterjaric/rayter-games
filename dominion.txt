@@ -68,3 +68,8 @@ game 2012-12-27 00:44
 Hugo        33
 Jonatan     33
 Jakob       30
+
+game 2012-12-28 01:44
+Hugo        35
+Jonatan     48
+Jakob       35
