@@ -12,7 +12,7 @@ Jakob		68
 game 2010-08-03 15:00
 Peter		52
 Hugo		0
-Jakob		52
+Jakob		25
 
 game 2010-08-03 15:30
 Peter		35
@@ -190,3 +190,10 @@ MargaretaT  105
 Jossan      94
 Jonatan     69
 Jakob       96
+
+game 2012-12-30 00:22
+Harald      80
+Jessica     72
+Viveka      121
+Peter       79
+Jakob       90
