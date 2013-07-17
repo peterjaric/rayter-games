@@ -1,6 +1,32 @@
 score_type lowscore
 game_name Four Rounds Contract Rummy
 
+game 2012-07-25 21:40
+David 226
+Rakel 171
+Jonatan 96
+Antonia 231
+Philippa 110
+
+game 2012-07-25 22:40
+Carole 119
+Ursula 151
+Jessica 102
+Harald 130
+
+game 2012-07-25 23:20
+David 166
+Rakel 0
+Jonatan 320
+Antonia 279
+Philippa 97
+
+game 2012-07-25 23:59
+Carole 133
+Ursula 224
+Jessica 116
+Harald 0
+
 game 2013-07-16 23:59
 Jonatan 320
 Viveka 223
