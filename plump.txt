@@ -60,3 +60,9 @@ Harald      66
 Lisa        46
 Hugo        43
 Viveka      66
+
+game 2013-07-23 23:30
+Peter       96
+Harald      104
+Jessica     67
+Margareta   71
