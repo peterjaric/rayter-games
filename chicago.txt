@@ -48,8 +48,13 @@ Jonatan          16
 Peter            46
 Hugo             62
 
-game 2013-12-25 00:37
+game 2013-12-26 17:00
 Jonatan          64
 Peter            57
 Hugo             10
 Harald           51
+
+game 2013-12-27 00:40
+Jonatan          74
+Peter            62
+Hugo             59
