@@ -236,3 +236,10 @@ Harald  24
 Peter   9
 Jonatan 17
 Rakel   73
+
+game 2014-04-20 23:00
+Hugo    -10
+Harald  19
+Peter   37
+Jonatan 61
+Rakel   35
