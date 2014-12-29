@@ -65,6 +65,11 @@ Peter            82
 Hugo             37
 Harald           46
 
+game 2014-12-29 15:00
+Jonatan          41
+Peter            43
+Hugo             64
+
 game 2014-12-29 20:00
 Jonatan          65
 Peter            18
