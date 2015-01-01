@@ -106,7 +106,7 @@ game 2014-12-31 23:00
 Jessica 61
 Peter 42
 Harald  30
-Mia 33
+Bob 33
 Hugo 60
 Viveka 45
 
