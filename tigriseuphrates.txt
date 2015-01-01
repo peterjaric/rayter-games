@@ -5,5 +5,5 @@ Hugo 12
 
 2014-12-30  00:30
 Hugo 16
-Jonatan 10
-Peter 8
+Jonatan 8
+Peter 10
