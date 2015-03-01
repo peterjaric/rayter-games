@@ -61,4 +61,4 @@ game 2015-02-19 22:00
 Jessica  186
 Viveka   113
 Peter    88
-Hatrald  103
+Harald  103
