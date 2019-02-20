@@ -1,3 +1,7 @@
+game_name Fyrmanswhist
+
 game 2011-12-25 20:00
-Jakob+Joel      17
-Hugo+Jossan     10
+Jakob      17
+Joel      17
+Hugo     10
+Jossan     10
