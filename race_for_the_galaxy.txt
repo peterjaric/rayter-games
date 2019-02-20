@@ -1,3 +1,5 @@
+game_name Race for the Galaxy
+
 game 2015-03-12 22:00
 Jonatan  38
 Hugo     28
