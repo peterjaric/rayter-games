@@ -1,3 +1,4 @@
+game_name Krypkasino
 score_type lowscore
 
 game 2011-12-25 23:25
