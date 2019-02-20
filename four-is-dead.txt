@@ -1,13 +1,15 @@
-game 2014-08-07 19.00
+game_name Brännfyra
+
+game 2014-08-07 19:00
 Rakel 16
 Jonatan 14
 Peter 17
 
-game 2014-08-07 19.35
+game 2014-08-07 19:35
 Jonatan 20
 Peter 10
 
-game 2014-08-07 20.00
+game 2014-08-07 20:00
 Rakel 15
 Jonatan 4
 Peter 16
