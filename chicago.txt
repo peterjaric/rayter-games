@@ -95,3 +95,10 @@ Hugo             29
 game 2019-02-19 21:11
 Jonatan          77
 Peter            18
+
+game 2019-02-21 21:36
+Jonatan          75
+Bob              44
+Elon             46
+Peter            10
+
