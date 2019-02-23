@@ -12,7 +12,7 @@ Harald      71
 Jonatan     54
 Peter       67
 Jessica     58
-Margareta   91
+MargaretaT   91
 Kaj         51
 
 game 2011-12-25 22:00
@@ -67,7 +67,7 @@ game 2013-07-23 23:30
 Peter       96
 Harald      104
 Jessica     67
-MargaretaJ   71
+Margareta   71
 
 game 2013-12-25 23:09
 Jessica 86
@@ -102,19 +102,19 @@ Peter 48
 Harald  97
 Jossan 102
 Joel 65
-Margareta 86
+MargaretaT 86
 
 game 2014-12-31 23:00
 Jessica 61
 Peter 42
 Harald  30
-Bob 33
+Mia 33
 Hugo 60
 Viveka 45
 
 game 2015-01-01 15:00
 Peter 17
-Bob 16
+Mia 16
 Viveka 16
 Hugo 11
 
