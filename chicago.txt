@@ -98,13 +98,13 @@ Peter            18
 
 game 2019-02-21 21:36
 Jonatan          75
-Mia              44
+MiaJ              44
 Elon             46
 Peter            10
 
 game 2019-02-22 11:30
 Jonatan          36
-Mia              12
+MiaJ              12
 Elon             11
 Peter            57
 
