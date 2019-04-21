@@ -1,0 +1,2 @@
+game_name Clans of Caledonia
+
