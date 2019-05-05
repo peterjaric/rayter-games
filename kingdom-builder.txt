@@ -11,3 +11,9 @@ Jonatan		58
 Peter		  53
 Hugo      27
 Rakel     51
+
+game 2019-05-05 20:01
+Jonatan 56
+Peter 51
+Rakel 41
+Trond 33
