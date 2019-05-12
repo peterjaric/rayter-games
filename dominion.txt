@@ -102,3 +102,8 @@ game 2019-05-12 18:14
 Hugo 60
 Jonatan 43
 Peter 44
+
+game 2019-05-12 19:28
+Jonatan 70
+Peter 68
+Hugo 62
