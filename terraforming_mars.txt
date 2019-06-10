@@ -1,1 +1,7 @@
-game_name Terraformin Mars
+game_name Terraforming Mars
+
+game 2019-06-07 00:45
+Trond 73
+Jonatan 72
+Peter 68
+Johan 39
