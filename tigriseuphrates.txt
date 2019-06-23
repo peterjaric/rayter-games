@@ -20,3 +20,8 @@ game 2019-06-23 18:57
 Peter 8
 Hugo 7
 Jonatan 3
+
+game 2019-06-23 20:24
+Jonatan 13
+Peter 9
+Hugo 5
