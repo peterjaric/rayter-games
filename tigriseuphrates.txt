@@ -15,3 +15,8 @@ game 2019-05-23 22:05
 Jonatan 5
 Trond 10
 Andre 10
+
+game 2019-06-23 18:57
+Peter 8
+Hugo 7
+Jonatan 3
