@@ -286,3 +286,12 @@ Agnes 89
 HaraldOtto 59
 Peter 99
 Elon 122
+
+game 2019-07-01 20:10
+Axel 62
+HaraldOtto 102
+Jessica 73
+Elon 55
+Agnes 78
+Peter 52
+Jakob 18
