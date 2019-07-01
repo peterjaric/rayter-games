@@ -1,0 +1,8 @@
+game_name Fluxx
+
+game 2019-06-30 17:00
+Agnes 1
+Peter 0
+Elon 0
+MiaJ 0
+HaraldOtto
