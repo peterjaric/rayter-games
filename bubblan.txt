@@ -1,0 +1,10 @@
+gane_name Bubblan
+
+game 2019-07-02 17.30
+Elon 12
+Agnes 9
+Mia 11
+Marta 11
+Peter 11
+Britta 8
+
