@@ -1,4 +1,4 @@
-gane_name Bubblan
+game_name Bubblan
 
 game 2019-07-02 17.30
 Elon 12
