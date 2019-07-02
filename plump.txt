@@ -184,3 +184,12 @@ Harald 66
 Hugo 51
 Jessica 89
 Peter 77
+
+game 2019-07-02 20:36
+Peter 107
+HaraldOtto 103
+Emil 104
+Elon 72
+Agnes 88
+MiaJ 85
+Jakob 87
