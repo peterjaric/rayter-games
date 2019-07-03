@@ -25,3 +25,9 @@ Agnes 10
 MiaJ 10
 Elon 8
 HaraldOtto 8
+
+game 2019-07-03 09:50
+Elon 15
+HaraldOtto 15
+Agnes 1
+MiaJ 1
