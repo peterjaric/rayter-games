@@ -31,3 +31,8 @@ Elon 15
 HaraldOtto 15
 Agnes 1
 MiaJ 1
+
+game 2019-07-03 14:23
+Elon 6
+Marta 1
+Britta 1
