@@ -17,3 +17,10 @@ game 2019-07-04 15:30
 Jonatan 1
 Rakel 0
 Peter 0
+
+game 2019-07-04 18:44
+Agnes 0
+Rakel 0
+Jonatan 0
+Peter 1
+Elon 0
