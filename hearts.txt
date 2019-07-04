@@ -295,3 +295,10 @@ Elon 55
 Agnes 78
 Peter 52
 Jakob 18
+
+game 2019-07-04 19:26
+HaraldOtto 97
+Jonatan 114
+Peter 107
+Jakob 81
+Elon 120
