@@ -4,3 +4,9 @@ game 2019-05-12 22.46
 Hugo 8
 Jonatan 9
 Peter -3
+
+game 2019-07-04 20:07
+Jakob 5
+Jonatan 8
+Peter 4
+Rakel -3
