@@ -6,7 +6,7 @@ Agnes 1
 Peter 0
 Elon 0
 MiaJ 0
-HaraldOtto
+HaraldOtto 0
 
 game 2019-07-04 15:07
 Agnes 0
