@@ -316,3 +316,11 @@ Hugo 89
 HaraldOtto 116
 Peter 49
 Axel 37
+
+game 2019-07-05 20:33
+HaraldOtto 32
+Hanna 115
+Peter 27
+Jonatan 15
+Elon 46
+Axel 51
