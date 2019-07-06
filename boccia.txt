@@ -36,3 +36,7 @@ game 2019-07-03 14:23
 Elon 6
 Marta 1
 Britta 1
+
+game 2019-07-06 11:23
+HaraldOtto 10
+Harald 9
