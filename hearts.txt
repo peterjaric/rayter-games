@@ -333,7 +333,7 @@ Hugo 109
 Axel 68
 
 game 2019-07-07 20:59
-Select a player 40
+Axel 40
 Harald 52
 HaraldOtto 59
 Hanna 64
