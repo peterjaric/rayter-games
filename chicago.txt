@@ -129,3 +129,8 @@ game 2019-07-03 22:51
 Hugo 17
 Peter -13
 Jonatan 61
+
+game 2019-07-08 15:30
+Jonatan 62
+Elon 34
+Peter 37
