@@ -44,3 +44,12 @@ Harald 9
 game 2019-07-08 12:55
 Elon 10
 Agnes 1
+
+game 2019-07-09 18:18
+Agnes 8
+HaraldOtto 8
+MiaJ 8
+Elon 8
+Peter 12
+Axel 12
+Jonatan 12
