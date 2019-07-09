@@ -15,3 +15,8 @@ game 2019-07-08 21:34
 Jonatan 97
 Peter 88
 Rakel 79
+
+game 2019-07-09 23:01
+Jonatan 99
+Rakel 72
+Peter 65
