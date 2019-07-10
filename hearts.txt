@@ -340,3 +340,10 @@ Hanna 64
 Hugo 90
 Jonatan 103
 Peter 112
+
+game 2019-07-10 22:54
+HaraldOtto 104
+Harald 87
+Peter 99
+Jonatan 61
+Elon 91
