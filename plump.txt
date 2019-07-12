@@ -193,3 +193,8 @@ Elon 72
 Agnes 88
 MiaJ 85
 Jakob 87
+
+game 2019-07-12 17:31
+HaraldOtto 60
+Elon 30
+Jonatan 48
