@@ -361,3 +361,12 @@ Agnes 98
 Elon 90
 HaraldOtto 122
 Peter 54
+
+game 2019-08-01 19:52
+Harald 44
+Margareta 103
+Elon 45
+HaraldOtto 35
+Britta 73
+Peter 36
+Jessica 28
