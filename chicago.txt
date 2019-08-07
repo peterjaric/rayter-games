@@ -144,3 +144,8 @@ game 2019-07-11 23:02
 Peter 61
 Elon 43
 Jonatan 39
+
+game 2019-08-07 22:16
+Elon 81
+Margareta 67
+Peter 69
