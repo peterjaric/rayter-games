@@ -149,3 +149,9 @@ game 2019-08-07 22:16
 Elon 81
 Margareta 67
 Peter 69
+
+game 2019-08-08 21:20
+Mia 47
+Margareta 36
+Elon 59
+Peter 47
