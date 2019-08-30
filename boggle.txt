@@ -143,3 +143,7 @@ game 2019-05-12 20:17
 Jonatan 20
 Peter 20
 Hugo 6
+
+game 2019-08-30 21:34
+Peter 40
+Jonatan 40
