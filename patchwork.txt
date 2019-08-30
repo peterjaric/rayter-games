@@ -3,3 +3,7 @@ game_name Patchwork
 game 2019-02-22 20:10
 Jonatan          24
 Peter            39
+
+game 2019-08-30 20:43
+Jonatan 21
+Peter 9
