@@ -1,0 +1,7 @@
+game_name Bezzerwizzer
+
+game 2019-08-01 23:55
+Hanna 20
+Peter 10
+Axel 19
+Margareta 17
