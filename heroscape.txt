@@ -1,0 +1,10 @@
+game_name Heroscape
+score_type winnertakesall
+
+game 2019-07-27 22:00
+Peter 1
+Hugo 0
+
+game 2019-07-27 23:00
+Peter 1
+Hugo 0
