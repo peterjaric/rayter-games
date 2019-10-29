@@ -1,2 +1,22 @@
-gama_name Five Tribes
+game_name Five Tribes
+
+# Old games that we didn't rate at the time
+game 1900-01-01 00:00
+Peter 157
+Jonatan 181
+
+game 1900-01-02 00:00
+Trond 132
+Hugo 152
+Peter 137
+Jonatan 168
+
+game 1900-01-03 00:00
+Jonatan 132
+Erik 122
+Trond 130
+Peter 146
+
+
+
 
