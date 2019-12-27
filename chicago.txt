@@ -175,3 +175,8 @@ game 2019-12-27 16:28
 Peter 71
 Elon 40
 Jonatan 29
+
+game 2019-12-27 16:49
+Elon 58
+Peter 19
+Jonatan 10
