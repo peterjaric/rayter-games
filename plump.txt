@@ -230,3 +230,14 @@ Harald 64
 Elon 42
 Peter 53
 Jessica 47
+
+game 2019-12-29 21:56
+Agnes 131
+Harald 137
+Peter 150
+Liaqat 130
+HaraldOtto 108
+Jessica 120
+Jakob 172
+MiaJ 155
+Elon 134
