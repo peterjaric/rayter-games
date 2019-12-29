@@ -386,3 +386,10 @@ Harald 67
 Elon 79
 Peter 77
 Jessica 101
+
+game 2019-12-29 15:22
+Elon 81
+Peter 37
+Britta 80
+Jessica 9
+HaraldOtto 53
