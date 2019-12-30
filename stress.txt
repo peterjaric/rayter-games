@@ -1,0 +1,14 @@
+game_name Stress
+game_type winner_takes_all
+
+game 2019-12-30 21:35
+HaraldOtto 1
+Britta 0
+
+game 2019-12-30 21:40
+HaraldOtto 1
+Britta 0
+
+game 2019-12-30 21:45
+HaraldOtto 1
+Britta 0
