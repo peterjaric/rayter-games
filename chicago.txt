@@ -207,3 +207,9 @@ Elon 86
 Agnes 22
 MiaJ 36
 HaraldOtto 68
+
+game 2019-12-30 15:25
+Elon 62
+HaraldOtto 83
+MiaJ 38
+Agnes 64
