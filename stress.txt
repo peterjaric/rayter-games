@@ -1,6 +1,6 @@
 game_name Stress
-game_type winner_takes_all
-
+scoretype winnertakesall
+ 
 game 2019-12-30 21:35
 HaraldOtto 1
 Britta 0
