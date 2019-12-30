@@ -1,5 +1,5 @@
 game_name Stress
-scoretype winnertakesall
+score_type winnertakesall
  
 game 2019-12-30 21:35
 HaraldOtto 1
