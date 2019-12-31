@@ -400,3 +400,12 @@ HaraldOtto 39
 Elon 107
 Axel 46
 Jessica 30
+
+game 2019-12-31 21:58
+Elon 28
+Peter 42
+Jessica 60
+Jakob 0
+HaraldOtto 9
+Harald 7
+Axel 10
