@@ -12,3 +12,7 @@ Britta 0
 game 2019-12-30 21:45
 HaraldOtto 1
 Britta 0
+
+game 2019-12-31 20:41
+Hanna 1
+Britta 0
