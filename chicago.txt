@@ -218,3 +218,8 @@ game 2019-12-31 22:28
 Elon 67
 Jakob 16
 Peter 26
+
+game 2020-01-01 12:59
+Agnes 71
+Peter 51
+Elon 44
