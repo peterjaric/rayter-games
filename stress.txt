@@ -20,3 +20,7 @@ Britta 0
 game 2020-01-01 11:28
 Hanna 1
 Agnes 0
+
+game 2020-01-01 11:29
+Hanna 1
+Harald 0
