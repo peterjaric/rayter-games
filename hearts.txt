@@ -409,3 +409,9 @@ Jakob 0
 HaraldOtto 9
 Harald 7
 Axel 10
+
+game 2020-01-01 18:59
+Britta 26
+Liaqat 61
+Mia 48
+Harald 45
