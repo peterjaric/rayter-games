@@ -157,3 +157,9 @@ Elon 5
 Peter 23
 Hugo 25
 Jonatan 30
+
+game 2020-01-03 23:49
+Elon 17
+Peter 31
+Hugo 20
+Jonatan 19
