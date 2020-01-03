@@ -4,3 +4,8 @@ game 2015-03-12 22:00
 Jonatan  38
 Hugo     28
 Peter    28
+
+game 2020-01-03 22:29
+Peter 41
+Hugo 41
+Jonatan 41
