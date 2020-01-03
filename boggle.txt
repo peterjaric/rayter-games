@@ -151,3 +151,9 @@ Jonatan 40
 game 2019-10-29 23:04
 Jonatan 18
 Peter 21
+
+game 2020-01-03 21:05
+Elon 5
+Peter 23
+Hugo 25
+Jonatan 30
