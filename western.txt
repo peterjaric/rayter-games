@@ -1,0 +1,7 @@
+game_name Western
+
+game 2020-01-18 00:10
+Rakel 3
+Jonatan 2
+Peter 1
+
