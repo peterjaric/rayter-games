@@ -228,3 +228,8 @@ game 2020-01-01 21:02
 Britta 98
 Elon 84
 HaraldOtto 57
+
+game 2020-01-18 21:20
+Peter 57
+Hugo 52
+Jonatan 25
