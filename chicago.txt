@@ -248,3 +248,8 @@ game 2020-02-17 22:14
 Peter 67
 Elon 48
 Jonatan 56
+
+game 2020-02-17 23:06
+Elon 70
+Jonatan 41
+Peter 40
