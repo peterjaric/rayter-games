@@ -23,3 +23,7 @@ Rakel     50
 game 2014-12-24 00:20
 Jonatan  	79
 Peter		  40
+
+game 2020-02-22 22:35
+Peter 64
+Jonatan 3
