@@ -8,3 +8,7 @@ Peter 108
 game 2020-01-25 21:17
 Annica 125
 Peter 97
+
+game 2020-06-25 19:39
+Hugo 129
+Peter 110
