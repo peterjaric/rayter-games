@@ -264,3 +264,10 @@ Harald 71
 Jessica 72
 Liaqat 49
 Peter 64
+
+game 2020-07-11 20:37
+Hugo 79
+Agnes 70
+Peter 74
+Harald 48
+Elon 59
