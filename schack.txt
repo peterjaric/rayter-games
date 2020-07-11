@@ -1,0 +1,9 @@
+game_name Schack
+
+# Vinst = 2
+# Remi = 1
+# Förlust = 0
+
+game 2020-07-11 18:00
+Elon 2
+Harald 0
