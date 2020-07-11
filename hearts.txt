@@ -429,3 +429,11 @@ Peter 39
 Jonatan 46
 Harald 56
 Jessica 113
+
+game 2020-07-11 19:29
+Britta 28
+Hugo 46
+Marta 33
+Peter 34
+Harald 28
+Jessica 65
