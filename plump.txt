@@ -271,3 +271,12 @@ Agnes 70
 Peter 74
 Harald 48
 Elon 59
+
+game 2020-07-12 21:16
+Elon 47
+Liaqat 39
+Harald 47
+HaraldOtto 31
+Agnes 61
+Hugo 54
+Britta 30
