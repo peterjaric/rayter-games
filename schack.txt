@@ -7,3 +7,7 @@ game_name Schack
 game 2020-07-11 18:00
 Elon 2
 Harald 0
+
+game 2020-07-12 21:09
+Elon 2
+Harald 0
