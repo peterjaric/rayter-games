@@ -32,3 +32,7 @@ HaraldOtto 0
 game 2020-07-13 10:54
 Agnes 0
 HaraldOtto 1
+
+game 2020-07-13 17:39
+HaraldOtto 1
+Harriet 0
