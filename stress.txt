@@ -28,3 +28,7 @@ HaraldOtto 0
 game 2020-01-01 11:30
 Hanna 1
 HaraldOtto 0
+
+game 2020-07-13 10:54
+Agnes 0
+HaraldOtto 1
