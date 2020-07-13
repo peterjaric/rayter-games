@@ -437,3 +437,12 @@ Marta 33
 Peter 34
 Harald 28
 Jessica 65
+
+game 2020-07-13 20:20
+HaraldOtto 26
+Britta 38
+Elon 36
+Peter 51
+Liaqat 38
+Jessica 48
+Agnes 49
