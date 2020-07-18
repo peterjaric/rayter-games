@@ -280,3 +280,9 @@ HaraldOtto 31
 Agnes 61
 Hugo 54
 Britta 30
+
+game 2020-07-18 13:50
+HaraldOtto 77
+MiaJ 69
+Hugo 51
+Peter 39
