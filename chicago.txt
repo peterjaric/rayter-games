@@ -313,3 +313,9 @@ game 2020-07-11 14:15
 Agnes 10
 Peter 73
 Elon 53
+
+game 2020-07-18 13:46
+Britta 45
+Jonatan 42
+Peter 60
+Agnes 39
