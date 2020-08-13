@@ -1,4 +1,4 @@
-game_name UU Boccia
+game_name UU-Boccia
 
 game 2020-08-30 10:00
 UUEva 5
