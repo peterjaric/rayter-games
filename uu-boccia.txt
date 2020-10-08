@@ -35,7 +35,8 @@ UUMarina 8
 UUMaryam 8
 UUMattias 8
 UUPontus 13
-UUSvante 13
+
+te 13
 UUWiola 8
 
 game 2020-08-10 10:00
@@ -421,3 +422,18 @@ UUMarina 3
 UUMathias 3
 UUMichaelN 3
 UUMats 3
+
+game 2020-08-28 14:00
+UUSvante 9
+UUMarina 9
+UURolf 9
+UUEva 14
+UUMats 14
+
+game 2020-08-28 14:30
+UUSvante 1
+UUMarina 1
+UURolf 1
+UUEva 12
+UUMats 12
+
