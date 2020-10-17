@@ -187,3 +187,8 @@ game 2020-10-17 20:54
 Peter 25
 Hugo 19
 Jonatan 32
+
+game 2020-10-17 21:43
+Peter 32
+Hugo 22
+Jonatan 26
