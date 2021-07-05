@@ -475,3 +475,12 @@ Peter 53
 Hugo 21
 Elon 6
 HaraldOtto 54
+
+game 2021-07-05 20:55
+Axel 18
+Harald 25
+Britta 54
+Peter 53
+Hugo 21
+Elon 6
+HaraldOtto 54
