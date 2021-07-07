@@ -47,3 +47,7 @@ HaraldOtto 0
 game 2021-07-04 21:37
 Elon 1
 HaraldOtto 0
+
+game 2021-07-07 17:23
+HaraldOtto 1
+Jessica 0
