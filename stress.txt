@@ -55,4 +55,4 @@ Agnes 0
 
 game 2021-07-26 19:15
 Hanna 1
-Britta 1
+Britta 0
