@@ -62,5 +62,5 @@ Hanna 1
 HaraldOtto 0
 
 game 2021-07-27 20:05
-Hanna 1
-Britta 0
+Hanna 0
+Britta 1
