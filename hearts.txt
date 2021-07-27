@@ -520,3 +520,13 @@ Elon 69
 Peter 10
 Axel 26
 Agnes 28
+
+game 2021-07-27 19:38
+HaraldOtto 29
+Jessica 27
+Hanna 34
+Elon 66
+Harald 26
+Axel 26
+Hugo 0
+Peter 26
