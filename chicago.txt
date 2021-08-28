@@ -345,3 +345,9 @@ game 2021-07-25 12:30
 Peter 80
 Agnes 100
 Elon 51
+
+game 2021-08-28 18:38
+Jonatan 62
+Hugo 36
+Elon 15
+Peter 9
