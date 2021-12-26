@@ -235,7 +235,7 @@ game 2019-12-29 21:56
 Agnes 131
 Harald 137
 Peter 150
-Liaqat 130
+Leo 130
 HaraldOtto 108
 Jessica 120
 Jakob 172
@@ -245,7 +245,7 @@ Elon 134
 game 2019-12-30 20:05
 Peter 72
 Harald 67
-Liaqat 71
+Leo 71
 Mia 43
 Agnes 77
 MiaJ 68
@@ -262,7 +262,7 @@ Elon 80
 Agnes 62
 Harald 71
 Jessica 72
-Liaqat 49
+Leo 49
 Peter 64
 
 game 2020-07-11 20:37
@@ -274,7 +274,7 @@ Elon 59
 
 game 2020-07-12 21:16
 Elon 47
-Liaqat 39
+Leo 39
 Harald 47
 HaraldOtto 31
 Agnes 61
@@ -297,7 +297,7 @@ game 2020-12-29 19:38
 Harald 102
 Jonatan 108
 Jessica 92
-Liaqat 46
+Leo 46
 
 game 2021-04-02 20:37
 Hussein 54
@@ -333,7 +333,7 @@ Peter 64
 game 2021-07-25 20:54
 Agnes 62
 Harald 54
-Liaqat 60
+Leo 60
 Hugo 96
 Peter 66
 

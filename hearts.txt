@@ -412,7 +412,7 @@ Axel 10
 
 game 2020-01-01 18:59
 Britta 26
-Liaqat 61
+Leo 61
 Mia 48
 Harald 45
 
@@ -443,7 +443,7 @@ HaraldOtto 26
 Britta 38
 Elon 36
 Peter 51
-Liaqat 38
+Leo 38
 Jessica 48
 Agnes 49
 
