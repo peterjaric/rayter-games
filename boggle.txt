@@ -197,3 +197,8 @@ game 2020-10-17 22:12
 Hugo 8
 Jonatan 22
 Peter 32
+
+game 2022-02-01 22:25
+Elon 6
+Jonatan 33
+Peter 31
