@@ -372,3 +372,8 @@ game 2021-12-29 15:14
 Hugo 98
 Jonatan 74
 Peter 77
+
+game 2022-02-01 22:24
+Elon 6
+Jonatan 33
+Peter 31
