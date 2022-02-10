@@ -213,3 +213,8 @@ Peter 30
 Jonatan 29
 Hugo 22
 Elon 10
+
+game 2022-02-10 22:00
+Peter 21
+Jonatan 8
+Elon 4
