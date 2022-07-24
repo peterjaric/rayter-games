@@ -82,7 +82,7 @@ HaraldOtto 0
 
 game 2022-07-24 21:44
 HaraldOtto 1
-Elon 
+Elon 0
 
 game 2022-07-24 21:45
 Elon 1
