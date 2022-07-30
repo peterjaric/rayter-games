@@ -569,3 +569,10 @@ Britta 13
 HaraldOtto 6
 Harald 50
 Leo 34
+
+game 2022-07-30 15:50
+Mia 54
+Elon 63
+Harriet 72
+Peter 40
+Britta 31
