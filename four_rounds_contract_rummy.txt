@@ -80,3 +80,11 @@ game 2021-12-25 18:53
 Mia 57
 Peter 91
 Jonatan 220
+
+game 2022-07-30 20:26
+Jessica 148
+Peter 147
+Britta 139
+Mia 265
+Viveka 356
+Agnes 92
