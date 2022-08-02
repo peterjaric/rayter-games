@@ -350,3 +350,10 @@ game 2021-12-26 22:18
 Jessica 5
 Peter 101
 Harald 113
+
+game 2022-08-02 19:10
+Emil 41
+Viveka 49
+Peter 22
+Harald 30
+Jessica 42
