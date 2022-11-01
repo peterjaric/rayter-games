@@ -223,3 +223,8 @@ game 2022-03-27 20:54
 Elon 21
 Jonatan 30
 Peter 28
+
+game 2022-11-01 20:54
+Elon 6
+Jonatan 20
+Peter 25
