@@ -386,3 +386,9 @@ Elon 73
 Peter 22
 Jonatan 46
 
+game 2022-12-28 01:45
+Harald 79
+Elon 57
+Hugo 48
+Peter 47
+Jonatan 40
