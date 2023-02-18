@@ -373,18 +373,15 @@ Hugo 98
 Jonatan 74
 Peter 77
 
-
+game 2022-08-11 00:10
+Elon 73
+Peter 22
+Jonatan 46
 
 game 2022-07-17 21:02
 Jakob 63
 Hugo 25
 Jonatan 23
-
-
-game 2022-08-11 00:10
-Elon 73
-Peter 22
-Jonatan 46
 
 game 2022-12-28 01:45
 Harald 79
@@ -397,3 +394,9 @@ game 2023-01-14 22:02
 Jonatan 65
 Peter 43
 Harald 40
+
+game 2023-02-18 23:44
+Elon 41
+Peter 52
+Jonatan 63
+
