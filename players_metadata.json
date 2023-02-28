@@ -1,0 +1,9 @@
+{
+      "Jonatan": {
+            "imageUrl": "https://locust.io/static/img/authors/jonatan.jpg"
+      },
+      "Peter": {
+            "displayName": "Peter",
+            "email": "register@jaric.org"
+      }
+}
