@@ -5,5 +5,8 @@
       "Peter": {
             "displayName": "Peter",
             "email": "register@jaric.org"
+      },
+      "MiaJ": {
+            "imageUrl": "https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraight&accessoriesType=Blank&hairColor=Brown&facialHairType=Blank&clotheType=ShirtCrewNeck&clotheColor=PastelRed&eyeType=Close&eyebrowType=Default&mouthType=Eating&skinColor=Light"
       }
 }
