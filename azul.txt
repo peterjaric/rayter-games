@@ -1,0 +1,6 @@
+game_name Azul
+
+game 2023-06-25
+Jonatan 101
+Hugo 81
+Peter 70
