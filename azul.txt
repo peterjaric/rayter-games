@@ -1,6 +1,6 @@
 game_name Azul
 
-game 2023-06-25
+game 2023-06-25 21:00
 Jonatan 101
 Hugo 81
 Peter 70
