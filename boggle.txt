@@ -251,3 +251,8 @@ game 2023-06-25 22:00
 Hugo 7
 Jonatan 23
 Peter 25
+
+game 2023-08-03 22:00
+Hugo 16
+Jonatan 19
+Peter 34
