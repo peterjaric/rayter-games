@@ -261,3 +261,22 @@ game 2023-08-03 23:00
 Hugo 17
 Jonatan 18
 Peter 28
+
+game 2023-08-09 23:41
+Jonatan 30
+Peter 24
+
+game 2023-08-09 23:41
+Jonatan 15
+Peter 33
+Axel 30
+
+game 2023-08-09 23:41
+Jonatan 28
+Peter 18
+Axel 8
+Jessica 8
+
+game 2023-08-09 23:41
+Jonatan 34
+Peter 41
