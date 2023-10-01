@@ -298,3 +298,13 @@ game 2023-09-27 23:01
 Jonatan 31
 Peter 33
 Hugo 15
+
+game 2023-10-01 20:30
+Peter 27
+Jonatan 13
+
+game 2023-10-01 22:00
+Peter 24
+Jonatan 20
+Hugo 8
+Trond 9
