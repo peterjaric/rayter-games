@@ -308,3 +308,14 @@ Peter 24
 Jonatan 20
 Hugo 8
 Trond 9
+
+game 2023-11-04 21:00
+Peter 38
+Jonatan 13
+Rakel 5
+Hugo 8
+
+game 2023-10-04 22:00
+Peter 32
+Jonatan 18
+Hugo 18
