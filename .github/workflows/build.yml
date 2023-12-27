@@ -26,7 +26,7 @@ jobs:
       - name: Install and Build
         run: |
           pip install --upgrade rayter-generator
-          rayter-generate-website --games-path . --output ./_site --players ./players_metadata.json
+          rayter-generate-website --games-path . --output ./_site --players ./config/players_metadata.json
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
