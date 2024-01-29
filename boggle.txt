@@ -363,3 +363,8 @@ Peter 39
 Jonatan 29
 Hugo 24
 
+game 2024-01-29 23.00
+Peter 26
+Jonatan 25
+Hugo 20
+Elon 12
