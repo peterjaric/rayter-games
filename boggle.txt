@@ -426,5 +426,10 @@ Peter 34
 Jonatan 36
 Hugo 18
 
+game 2024-07-23 20:30
+Peter 31
+Elon 18
+Hugo 14
+
 
 
