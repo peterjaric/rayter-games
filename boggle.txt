@@ -439,3 +439,29 @@ Hugo 11
 game 2024-07-23 23:40
 Peter 16
 Hugo 4
+
+game 2024-09-04 23:38
+Peter 11
+Jonatan 22
+Hugo 7
+Elon 8
+Erik 2
+Trond 0
+
+game 2024-09-04 23:38
+Peter 22
+Jonatan 13
+Hugo 3
+Erik -3
+
+game 2024-09-04 23:38
+Peter 21
+Jonatan 8
+Hugo 11
+Erik 5
+
+game 2024-09-04 23:38
+Peter 19
+Jonatan 16
+Hugo 4
+Erik 1
