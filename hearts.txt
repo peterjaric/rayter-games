@@ -582,3 +582,11 @@ Mia 46
 Peter 36
 Viveka 31
 Harald 43
+
+game 2024-12-24 22:00
+Elon 8
+Jessica 35
+Harald 40
+Viveka 52
+Jonatan 25
+Peter 40
