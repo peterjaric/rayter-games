@@ -431,3 +431,8 @@ game 2024-12-25 16:50
 Elon 44
 Peter 104
 Jonatan 66
+
+game 2024-12-25 17:30
+Elon 57
+Peter 16
+Jonatan 51
