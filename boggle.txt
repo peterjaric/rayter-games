@@ -470,3 +470,22 @@ game 2024-10-01 21:06
 Elon 15
 Jonatan 40
 Peter 25
+
+game 2024-12-28 21:00
+Agnes 1
+Elon 13
+Hugo 13
+Jonatan 5
+Hanna 3
+Peter 25
+
+game 2024-12-28 21:00
+Agnes 7
+Axel 27
+Hugo 20
+Jonatan 28
+Hanna 7
+Peter 32
+
+
+
