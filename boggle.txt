@@ -471,7 +471,7 @@ Elon 15
 Jonatan 40
 Peter 25
 
-game 2024-12-28 21:00
+game 2024-12-27 21:00
 Agnes 1
 Elon 13
 Hugo 13
@@ -479,7 +479,7 @@ Jonatan 5
 Hanna 3
 Peter 25
 
-game 2024-12-28 21:00
+game 2024-12-27 21:30
 Agnes 7
 Axel 27
 Hugo 20
@@ -487,5 +487,19 @@ Jonatan 28
 Hanna 7
 Peter 32
 
+game 2024-12-28 21:00
+Agnes 3
+Jessica 3
+Axel 20
+Hugo 7
+Hanna 14
+Peter 27
+HaraldOtto 3
 
-
+game 2024-12-28 21:30
+Agnes 1
+Axel 30
+Hugo 15
+Hanna 21
+Peter 25
+HaraldOtto 2
