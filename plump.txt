@@ -390,3 +390,10 @@ Elon 50
 Harald 45
 Jonatan 102
 Peter 96
+
+game 2025-06-20 21:00
+Jessica 88
+Emil 72
+Axel 86
+Peter 54
+Kaj 79
