@@ -469,3 +469,21 @@ Elon 41
 Peter 70
 Jonatan 31
 Hugo 46
+
+game 2025-07-29 21:00
+Elon 64
+Peter 26
+Jonatan 37
+Hugo 43
+
+game 2025-07-29 22:00
+Elon 63
+Peter 28
+Jonatan 41
+Hugo 53
+
+game 2025-07-29 23:00
+Elon 59
+Peter 45
+Jonatan 21
+Hugo 19
