@@ -531,6 +531,11 @@ Peter 40
 Jonatan 36
 Hugo 20
 
+game 2025-11-01 23:00
+Peter 17
+Jonatan 26
+Hugo 10
+
 
 
 
