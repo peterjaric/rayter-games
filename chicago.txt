@@ -487,3 +487,8 @@ Elon 59
 Peter 45
 Jonatan 21
 Hugo 19
+
+game 2025-11-19 20:20
+Hugo 21
+Jonatan 60
+Peter 33
