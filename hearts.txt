@@ -597,10 +597,19 @@ Jessica 42
 Harald 61
 Peter 0
 
-game 2026-04-05 21:10
+game 2026-04-04 21:10
 Elon 36
 Jessica 4
 HaraldOtto 33
 Peter 1
 Axel 56
+
+game 2026-04-05 13:01
+Elon 11
+Jessica 54
+HaraldOtto 33
+Peter 93
+Agnes 41
+Harriet 54
+
 
