@@ -571,5 +571,26 @@ Agnes 8
 Elon 11
 Axel 12
 
+game 2026-06-23 20:00
+Elon 11
+Jonatan 18
+Peter 30
+Hugo 8
 
+game 2026-06-23 21:00
+Elon 28
+Jonatan 25
+Peter 33
+Hugo 5
 
+game 2026-06-23 21:30
+Elon 18
+Jonatan 20
+Peter 26
+Hugo 14
+
+game 2026-06-23 22:30
+Elon 21
+Jonatan 35
+Peter 29
+Hugo 26
