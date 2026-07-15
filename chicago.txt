@@ -519,3 +519,9 @@ Peter 27
 Elon 25
 Jonatan 53
 HaraldOtto 58
+
+game 2026-07-15 23:50
+Peter 35
+Elon 69
+Jonatan 32
+
