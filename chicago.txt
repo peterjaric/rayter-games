@@ -513,3 +513,9 @@ game 2026-07-15 00:20
 Peter 69
 Elon 50
 Jonatan 56
+
+game 2026-07-15 19:40
+Peter 27
+Elon 25
+Jonatan 53
+HaraldOtto 58
