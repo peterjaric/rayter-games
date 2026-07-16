@@ -594,3 +594,16 @@ Elon 21
 Jonatan 35
 Peter 29
 Hugo 26
+
+game 2026-07-14 11:30
+Elon 14
+Jonatan 24
+Peter 31
+
+game 2026-07-14 12:00
+Elon 18
+Jonatan 23
+Peter 30
+
+
+
