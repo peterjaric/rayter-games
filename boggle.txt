@@ -606,4 +606,11 @@ Jonatan 23
 Peter 30
 
 
+game 2026-07-17 22:00
+Jonatan 18
+Peter 41
+
+game 2026-07-17 22:15
+Jonatan 54
+Peter 54
 
