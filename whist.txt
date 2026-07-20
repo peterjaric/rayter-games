@@ -53,3 +53,9 @@ Mia 16
 Jonatan 16
 Harald 5
 Kaj 5
+
+game 2026-07-20 17:00
+Mia 12
+Harald 12
+Peter 14
+Jonatan 14
