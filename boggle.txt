@@ -622,3 +622,13 @@ game 2026-08-07 21:00
 Elon 44
 Jonatan 32
 Peter 27
+
+game 2026-08-07 22:00
+Elon 24
+Jonatan 36
+Peter 25
+
+game 2026-08-07 23:00
+Elon 28
+Jonatan 22
+Peter 33
