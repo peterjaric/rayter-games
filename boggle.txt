@@ -617,3 +617,8 @@ Peter 54
 game 2026-07-28 23:15
 Jonatan 29
 Peter 40
+
+game 2026-08-07 21:00
+Elon 44
+Jonatan 32
+Peter 27
